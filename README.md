@@ -34,7 +34,7 @@
   🔗 https://drive.google.com/file/d/1F0SINimtTiITCvun4LBg0sRog3XBdAh8/view
 
 - 🧠 **Git Skill Up Certificate**  
-  🔗 https://drive.google.com/file/d/1F0SINimtTiITCvun4LBg0sRog3XBdAh8/view
+  🔗 https://drive.google.com/file/d/1TvqgUc1W3-hINfk2dyeWVD-nW2DO1FRD/view?usp=drive_link/view
 
 ---
 
