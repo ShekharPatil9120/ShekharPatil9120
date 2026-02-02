@@ -21,7 +21,8 @@
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/ShekharPatil9120)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shekhar-annappa-patil-a666a7309/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/shekhar_patil/)
-[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:shekharpatil9120@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=shekharpatil9120@gmail.com)
+
 
 ---
 
