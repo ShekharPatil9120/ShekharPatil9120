@@ -8,30 +8,40 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Engineering student with strong interest in backend & web development
-- 🐍 Comfortable with **Python and Django**
+- 🎓 Engineering student passionate about backend & web development
+- 🐍 Strong foundation in **Python and Django**
 - 🌱 Currently improving **REST APIs, problem-solving & system design basics**
-- 🛠️ I enjoy building **real-world, practical projects**
+- 🛠️ Love building **real-world, practical projects**
 - 📍 India
 
 ---
 
 ## 🌐 Socials & Profiles
 
-[![Portfolio](https://img.shields.io/badge/GitHub%20Portfolio-black?style=for-the-badge&logo=github)](https://github.com/ShekharPatil9120)
+[![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/ShekharPatil9120)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shekhar-annappa-patil-a666a7309/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/shekhar_patil/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shekharpatil9120@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:shekharpatil9120@gmail.com)
 
 ---
 
 ## 📄 Certifications
 
-- 🐍 **Python Certificate**  
+- 🐍 **Python Programming Certificate**  
   🔗 https://drive.google.com/file/d/10yDtiaGPLLVtthL9qIOwtBfDq15GUHaJ/view
 
 - 🌐 **HTML, CSS & JavaScript Certificate**  
   🔗 https://drive.google.com/file/d/1F0SINimtTiITCvun4LBg0sRog3XBdAh8/view
+
+- 🧠 **Git Skill Up Certificate**  
+  🔗 https://drive.google.com/file/d/1F0SINimtTiITCvun4LBg0sRog3XBdAh8/view
+
+---
+
+## 📄 Resume
+
+📥 **Download Resume**  
+🔗 https://drive.google.com/file/d/1Pr6slG-y_HL-Xo-YSGAednq5hU3U0oSC/view
 
 ---
 
@@ -53,16 +63,28 @@
 ### 🌾 Smart Farming Solutions
 - Automated water management
 - Crop disease detection
-- ESP32-CAM live monitoring  
-🔗 https://github.com/ShekharPatil9120/Smart_Farming_Solutions
+- ESP32-CAM live monitoring
+- Deployed on PythonAnywhere  
+
+🔗 **GitHub Repo:**  
+https://github.com/ShekharPatil9120/Smart_Farming_Solutions  
+
+🌐 **Live Project:**  
+https://baleshpatil.pythonanywhere.com/
+
+---
 
 ### 🛒 Django E-Commerce Website
 - User authentication
 - Product & cart management  
+
 🔗 https://github.com/ShekharPatil9120/django-ecommerce-website
+
+---
 
 ### 📄 College Resume Portal
 - Resume creation & management system  
+
 🔗 https://github.com/ShekharPatil9120/CollegeResumePortal
 
 ---
